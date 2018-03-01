@@ -1,0 +1,14 @@
+{
+  "dictionary": "Packages/Spanish/es_ES.dic",
+  "font_size": 12,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "rulers":
+  [
+    100
+  ],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true
+}
